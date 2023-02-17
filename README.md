@@ -1,2 +1,3 @@
 # Chess
-Chess but superior
+Chess but superior.
+A collaborative project
