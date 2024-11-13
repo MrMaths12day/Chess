@@ -23,4 +23,5 @@
 6. Connect pin 9 (Qh) on shift register to data pin 12 on Arduino.
 7. Now connect pins (3-6) and pins (11-14) to either power or ground. Power will output logic HIGH (1) and ground will output logic LOW (0).
 NOTE: Every pin NOT IN USE (7, 10, 15) should be connected to ground or output will be unpredictable. <br/>
+![Pin layout of SNx4HC165 Shift Register](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/Screenshot%202024-11-13%20201237.png)
 ![Image of breadboard](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/20241023_185454.jpg)
