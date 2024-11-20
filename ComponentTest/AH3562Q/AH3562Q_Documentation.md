@@ -13,3 +13,10 @@
 - Single Open-Drain Output with Overcurrent Limit (Pull-up resistor required)
 - Good RF Noise Immunity
 - Reverse Blocking Diode 
+
+## Datasheet Excerpts [(datasheet)](https://docs.rs-online.com/34da/A700000008903001.pdf)
+![AH3562Q Datasheet - Pg1](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/AH3562Q%20-%20Datasheet%20-%20pg1.png)
+![AH3562Q Datasheet - Pg2](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/AH3562Q%20-%20Datasheet%20-%20pg2.png)
+![AH3562Q Datasheet - Pg3](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/AH3562Q%20-%20Datasheet%20-%20pg3.png)
+![AH3562Q Datasheet - Pg4](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/AH3562Q%20-%20Datasheet%20-%20pg4.png)
+![AH3562Q Datasheet - Pg12](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/AH3562Q%20-%20Datasheet%20-%20pg12.png)
