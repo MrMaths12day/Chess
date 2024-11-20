@@ -25,5 +25,8 @@
 7. Now connect pins 3-6, 11-14 (E-H, A-D) to either Vcc, Logical HIGH (1), or GND, Logical LOW (0)
 
 NOTE: Every pin NOT IN USE (7, 10, 15) should be connected to GND or output will be unpredictable. <br/>
-![Pin layout of SNx4HC165 Shift Register](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/Screenshot%202024-11-13%20201237.png)
+![SNx4HC165 Datasheet - pg1](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/SN74HC165%20-%20Datasheet%20-%20pg01.png)
+![SNx4HC165 Datasheet - pg3](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/SN74HC165%20-%20Datasheet%20-%20pg02.png)
+![SNx4HC165 Datasheet - pg12](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/SN74HC165%20-%20Datasheet%20-%20pg12.png)
+![SNx4HC165 Datasheet - pg13](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/SN74HC165%20-%20Datasheet%20-%20pg13.png)
 ![Image of breadboard](https://github.com/jb-labs-456/RoboChess-ElecSoc/blob/main/Files/Media/20241023_185454.jpg)
